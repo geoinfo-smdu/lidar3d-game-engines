@@ -1,0 +1,11 @@
+[
+    {
+        "type":"readers.las",
+        "filename":"data/MDS_color_3314-133.laz"
+    },
+    {
+        "type":"writers.ply",
+        "storage_mode":"little endian",
+        "filename":"results/MDS_color_3314-133.ply"
+    }
+]

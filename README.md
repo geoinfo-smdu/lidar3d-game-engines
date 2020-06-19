@@ -14,9 +14,7 @@ Para tanto pretendemos aqui nesse repositório demonstrar maneiras de converter 
 
 Os dados LiDAR podem ser acessados por download ou a partir de um serviço de nuvem de pontos Entwine (EPT). Vamos criar uma série de pequenos tutoriais e exemplos de código para possibilitar o uso nas mais diversas engines, conforme a lista abaixo:
 
-### Convertendo para PLY 
-
-TODO
+(Convertendo para PLY)[laz2ply/]
 
 ## Próximos passos
 
